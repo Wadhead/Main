@@ -7,8 +7,8 @@ console.log('string' * 9);
 
 const persone ="Loban"; //СТРОКА
 
-const bool = true;
-const booll = false;
+const bool = true; //да 
+const booll = false; //нет 
 
 // console.log(somerthing); null
 
