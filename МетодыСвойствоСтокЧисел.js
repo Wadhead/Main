@@ -1,7 +1,9 @@
 'use strict';
 
 const str = 'test';
-
+console.log(str.length);
+const arr = [1,2,3,];
+console.log(arr.length); 
 
 console.log(str.toUpperCase());
 console.log(str);
